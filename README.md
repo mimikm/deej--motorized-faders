@@ -1,4 +1,4 @@
-Expansion of original project, duncionality added:
+Expansion of original project, funcionality added:
 
 - Motorized faders
 - 3 preset buttons
